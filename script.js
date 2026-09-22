@@ -12,3 +12,10 @@ navigation.addEventListener('click', (event) => {
     menuButton.setAttribute('aria-expanded', 'false');
   }
 });
+
+const topHotspot = document.querySelector('.information-hotspot');
+
+topHotspot.addEventListener('click', (event) => {
+  event.preventDefault();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});

@@ -108,10 +108,18 @@ body {
 }
 
 .packaging-hotspot {
-  left: 3%;
-  bottom: 4.1%;
-  width: 23.5%;
-  height: 8.9%;
+  left: 2.5%;
+  bottom: 3.3%;
+  width: 24.5%;
+  height: 10%;
+}
+
+.information-hotspot {
+  right: .8%;
+  bottom: 1.5%;
+  width: 14%;
+  height: 9%;
+  border-radius: 0;
 }
 
 .site-footer {
