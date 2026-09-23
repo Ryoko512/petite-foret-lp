@@ -76,7 +76,7 @@ body {
   width: min(100%, 1920px);
   margin: 0 auto;
   line-height: 0;
-  scroll-margin-top: 58px;
+  scroll-margin-top: 57px;
 }
 
 .visual-section + .visual-section { border-top: 2px solid #fff; }
@@ -162,7 +162,7 @@ body {
   }
   .site-nav.open { display: grid; }
   .site-nav a { padding: 11px; text-align: center; }
-  .visual-section { scroll-margin-top: 58px; }
+  .visual-section { scroll-margin-top: 57px; }
   .site-footer { padding-bottom: 32px; }
 }
 
